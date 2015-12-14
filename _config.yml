@@ -1,7 +1,7 @@
 name: Vatensa
 favicon: null
-layout_spectrum: 0.866863653762266
-typography_spectrum: 0.24347889539785683
+layout_spectrum: 0.01412
+typography_spectrum: 0.27589
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1551010711118579
+    - '#89c4e7'
+    - '#0076b7'
+    - '#fcfcfc'
+    - '#000000'
+    - '#00ffff'
+  brandStrength: 0.5
   lightness: 0.03352364548482001
   saturation: 0.6192558398470283
   rhythmicContrast: 0.5177548034116626
